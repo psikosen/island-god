@@ -1,4 +1,4 @@
-# Island God Game
+# Island God Game (Test Branch)
 
 A game where you play as a living island, protecting yourself from invaders and guiding your native population through the power of faith.
 
@@ -11,6 +11,15 @@ In Island God, you control a living, sentient island with the goal of growing yo
 - **Procedural terrain manipulation**: Change your island's terrain to aid in defense
 - **Ritual systems**: Perform rituals and build idols to increase your power
 - **Combat mechanics**: Unleash spiritual defenders and environmental attacks
+
+## Test Branch Information
+
+This branch is for testing new features and bug fixes before merging to the main branch.
+
+Current test features:
+- Enhanced debug tools
+- New terrain types
+- Balance adjustments for combat
 
 ## Getting Started
 
@@ -25,6 +34,7 @@ In Island God, you control a living, sentient island with the goal of growing yo
    ```
    git clone <repository-url>
    cd island-god
+   git checkout test
    ```
 
 2. Install dependencies:

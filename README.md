@@ -17,9 +17,12 @@ In Island God, you control a living, sentient island with the goal of growing yo
 This branch is for testing new features and bug fixes before merging to the main branch.
 
 Current test features:
-- Enhanced debug tools
-- New terrain types
-- Balance adjustments for combat
+- **Enhanced debug tools**: Press F1 to toggle debug mode
+- **Performance monitoring**: Press F2 in debug mode to show performance metrics
+- **Game state display**: Press F3 in debug mode to show detailed game state
+- **Test entity spawning**: Press F4 in debug mode to spawn test entities
+- **Random event triggering**: Press F5 in debug mode to trigger random events
+- **Disabled game ending**: When in debug mode, victory/defeat conditions won't end the game
 
 ## Getting Started
 
@@ -53,6 +56,12 @@ Current test features:
 
 - **Mouse**: Click on parts of the island to select abilities and targets
 - **UI Buttons**: Use the interface to perform rituals, summon defenders, and modify terrain
+- **Debug Controls** (Test Branch Only):
+  - **F1**: Toggle debug mode
+  - **F2**: Toggle performance metrics display
+  - **F3**: Toggle game state display
+  - **F4**: Spawn test entities
+  - **F5**: Trigger random events
 
 ## Game Systems
 
